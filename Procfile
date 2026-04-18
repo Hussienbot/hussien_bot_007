@@ -1,1 +1,0 @@
-worker: python xbox_bot.py
