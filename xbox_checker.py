@@ -10,7 +10,7 @@ from typing import List, Dict, Optional, Tuple
 from datetime import datetime
 import base64
 import io
-from PIL import Image  # قد تحتاج إلى تثبيت Pillow: pip install Pillow
+
 
 DEFAULT_TIMEOUT = 60000
 
